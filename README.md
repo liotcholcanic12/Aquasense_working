@@ -1,19 +1,28 @@
-# brb2
+# AquaSense - AI-Powered Water Quality Monitoring
 
-A new Flutter project created with FlutLab - https://flutlab.io
+<img width="327" height="617" alt="Screenshot (147)_edited" src="https://github.com/user-attachments/assets/7322972e-2671-4d58-9342-c03b02dd2802" />
 
-## Getting Started
+## 🌟 Project Overview
+A Flutter application that integrates with embedded hardware to monitor water quality in real-time using:
+- pH sensors (6.5-8.5 range)
+- Turbidity sensors (5-15 NTU)
+- Temperature sensors (20-35°C)
+- AI drinkability analysis
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Key Features
+| Feature | Description |
+|---------|-------------|
+| Real-time Monitoring | Instant water quality readings |
+| Historical Charts | Interactive trend visualization |
+| Secure Login | Protected admin access |
+| Custom UI | Adjustable fonts & themes |
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+## 🛠 Tech Stack
+**Frontend**:  
+📱 Flutter (Dart)  
+📊 Syncfusion Charts  
+🔍 QR Scanner  
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+**Backend**:  
+🔥 Firebase Firestore  
+📱 SharedPreferences  
