@@ -1,5 +1,4 @@
-AquaSense - Smart Water Quality Monitoring
-Graduation Project by Team AquaSense
+# AquaSense - AI Water Quality Monitoring
 
 <img width="327" height="617" alt="Screenshot (147)_edited" src="https://github.com/user-attachments/assets/7322972e-2671-4d58-9342-c03b02dd2802" />
 
@@ -60,3 +59,4 @@ Settings: Customize app appearance
 
 📜 License
 Distributed under the MIT License. See LICENSE for more information.
+
